@@ -14,4 +14,4 @@ jobs:
       echo "Website is down"        
     else            
       echo "Website is up"          
-fi
+    fi
